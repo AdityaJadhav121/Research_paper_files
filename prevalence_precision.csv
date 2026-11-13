@@ -1,0 +1,17 @@
+setting,features,prevalence,recall,fpr,implied_precision
+A: Random (stratified),All 87,0.5,0.9702,0.0286,0.9714
+A: Random (stratified),All 87,0.05,0.9702,0.0286,0.6412
+A: Random (stratified),All 87,0.01,0.9702,0.0286,0.2553
+A: Random (stratified),All 87,0.001,0.9702,0.0286,0.0329
+A: Random (stratified),URL-only,0.5,0.9176,0.0829,0.9172
+A: Random (stratified),URL-only,0.05,0.9176,0.0829,0.3682
+A: Random (stratified),URL-only,0.01,0.9176,0.0829,0.1006
+A: Random (stratified),URL-only,0.001,0.9176,0.0829,0.011
+B: Domain-grouped (stratified),All 87,0.5,0.9438,0.041,0.9584
+B: Domain-grouped (stratified),All 87,0.05,0.9438,0.041,0.5479
+B: Domain-grouped (stratified),All 87,0.01,0.9438,0.041,0.1887
+B: Domain-grouped (stratified),All 87,0.001,0.9438,0.041,0.0225
+B: Domain-grouped (stratified),URL-only,0.5,0.8551,0.1058,0.8899
+B: Domain-grouped (stratified),URL-only,0.05,0.8551,0.1058,0.2983
+B: Domain-grouped (stratified),URL-only,0.01,0.8551,0.1058,0.0754
+B: Domain-grouped (stratified),URL-only,0.001,0.8551,0.1058,0.008

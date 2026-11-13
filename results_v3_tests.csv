@@ -1,0 +1,15 @@
+setting,comparison,mean_diff_pts,t,p_value
+A: Random (stratified),XGB vs RF (All 87),0.45,2.6,0.0209
+A: Random (stratified),XGB vs LR (All 87),2.56,10.09,0.0
+A: Random (stratified),XGB All 87 vs No external,2.62,11.31,0.0
+A: Random (stratified),XGB No external vs URL-only,2.72,9.95,0.0
+A: Random (stratified),XGB URL-only vs Depth-3 tree (URL-only),14.65,23.72,0.0
+A: Random (stratified),XGB URL-only vs Rule heuristic,27.46,48.77,0.0
+A: Random (stratified),XGB All 87 vs Decision stump,10.61,43.66,0.0
+B: Domain-grouped (stratified),XGB vs RF (All 87),0.13,0.23,0.8238
+B: Domain-grouped (stratified),XGB vs LR (All 87),1.37,3.2,0.0064
+B: Domain-grouped (stratified),XGB All 87 vs No external,3.74,2.83,0.0135
+B: Domain-grouped (stratified),XGB No external vs URL-only,3.9,4.34,0.0007
+B: Domain-grouped (stratified),XGB URL-only vs Depth-3 tree (URL-only),11.55,6.69,0.0
+B: Domain-grouped (stratified),XGB URL-only vs Rule heuristic,23.23,10.52,0.0
+B: Domain-grouped (stratified),XGB All 87 vs Decision stump,8.73,10.42,0.0

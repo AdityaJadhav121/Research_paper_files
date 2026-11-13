@@ -1,0 +1,5 @@
+,test_phish_share,test_phish_share,test_phish_share,test_phish_share,test_domains,test_domains,test_domains,test_domains,shared_domains_train_test,shared_domains_train_test,shared_domains_train_test,shared_domains_train_test
+,mean,std,min,max,mean,std,min,max,mean,std,min,max
+setting,,,,,,,,,,,,
+A: Random (stratified),0.5,0.0,0.5,0.5,1635.667,25.908,1589,1670,493.2,13.278,471,521
+B: Domain-grouped (stratified),0.498,0.044,0.418,0.573,1326.8,2.242,1323,1330,0.0,0.0,0,0

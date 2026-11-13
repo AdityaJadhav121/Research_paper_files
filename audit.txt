@@ -1,0 +1,27 @@
+Rows: 11430; exact duplicate URLs: 1
+Unique hostnames: 8241; unique registered domains: 6634
+URLs per registered domain: {'count': 6634.0, 'mean': 1.72, 'std': 8.23, 'min': 1.0, '25%': 1.0, '50%': 1.0, '75%': 1.0, 'max': 383.0}
+legitimate: 5715 URLs, 3970 domains, max URLs/domain 177, mean 1.44
+phishing: 5715 URLs, 2688 domains, max URLs/domain 351, mean 2.13
+Domains with both labels: 24
+Hostnames starting with www.: 0.437 (legit 0.668, phish 0.205)
+Top 10 registered domains by URL count:
+domain
+blogspot.com               383
+duilawyeryork.com          351
+appspot.com                265
+wikipedia.org              177
+google.com                 151
+tumblr.com                  88
+sharepoint.com              74
+wordpress.com               63
+000webhostapp.com           60
+shadetreetechnology.com     58
+External features: share equal to -1 / 0 by class
+  whois_registered_domain: -1 -> legit 0.000 phish 0.000;  0 -> legit 0.945 phish 0.910
+  domain_registration_length: -1 -> legit 0.006 phish 0.002;  0 -> legit 0.113 phish 0.133
+  domain_age: -1 -> legit 0.143 phish 0.168;  0 -> legit 0.000 phish 0.001
+  web_traffic: -1 -> legit 0.000 phish 0.000;  0 -> legit 0.146 phish 0.632
+  dns_record: -1 -> legit 0.000 phish 0.000;  0 -> legit 0.997 phish 0.963
+  google_index: -1 -> legit 0.000 phish 0.000;  0 -> legit 0.831 phish 0.101
+  page_rank: -1 -> legit 0.000 phish 0.000;  0 -> legit 0.018 phish 0.449
